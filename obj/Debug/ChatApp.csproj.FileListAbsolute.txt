@@ -1,0 +1,9 @@
+C:\Users\mikva_000\Documents\Visual Studio 2017\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\mikva_000\Documents\Visual Studio 2017\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Form1.resources
+C:\Users\mikva_000\Documents\Visual Studio 2017\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\Users\mikva_000\Documents\Visual Studio 2017\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+C:\Users\mikva_000\Documents\Visual Studio 2017\Projects\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\Users\mikva_000\Documents\Visual Studio 2017\Projects\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\mikva_000\Documents\Visual Studio 2017\Projects\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\mikva_000\Documents\Visual Studio 2017\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\mikva_000\Documents\Visual Studio 2017\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
